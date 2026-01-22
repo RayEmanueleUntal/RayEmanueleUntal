@@ -1,5 +1,17 @@
+## Hi, I’m Ray 👋
+
+🎓 BS Computer Science Student  
+🎨 Logic meets creativity  
+
+---
+
 # 💫 About Me:
 I'm a broke CS student.<br>I'm studying at Ateneo de Davao University.<br>Need job asap. Low effort, high pay<br>Fun fact: I don't know<br>Fun fact #2: I was born young
+
+### ⭐ Skills & Interests
+- Programming
+- Problem-Solving
+- Creative Design
 
 
 ## 🌐 Socials:
