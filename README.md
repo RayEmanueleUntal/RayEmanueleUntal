@@ -1,4 +1,6 @@
-## Hi, I’m Ray 👋
+
+## ![Uploading profile-banner.png…]()
+Hi, I’m Ray 👋
 
 🎓 BS Computer Science Student  
 🎨 Logic meets creativity  
