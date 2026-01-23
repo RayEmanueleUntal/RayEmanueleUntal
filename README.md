@@ -1,5 +1,6 @@
 
-## ![Uploading profile-banner.png…]()
+<img width="1280" height="320" alt="profile-banner" src="https://github.com/user-attachments/assets/03eea3aa-8e82-4d2b-b054-2ac8cae943c7" />
+
 Hi, I’m Ray 👋
 
 🎓 BS Computer Science Student  
